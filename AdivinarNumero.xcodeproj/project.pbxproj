@@ -9,6 +9,9 @@
 /* Begin PBXFileReference section */
 		558EF41C209C29F700BF22F4 /* AdivinarNumero */ = {isa = PBXFileReference; explicitFileType = folder; includeInIndex = 0; path = AdivinarNumero; sourceTree = BUILT_PRODUCTS_DIR; };
 		558EF41F209C29F700BF22F4 /* ContentInfo.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = ContentInfo.plist; sourceTree = "<group>"; };
+		558EF425209C2A2000BF22F4 /* Adivina.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Adivina.cpp; sourceTree = "<group>"; };
+		558EF426209C2A2000BF22F4 /* Adivina.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Adivina.hpp; sourceTree = "<group>"; };
+		558EF427209C2BA300BF22F4 /* File */ = {isa = PBXFileReference; lastKnownFileType = text; path = File; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -32,6 +35,9 @@
 			isa = PBXGroup;
 			children = (
 				558EF41F209C29F700BF22F4 /* ContentInfo.plist */,
+				558EF425209C2A2000BF22F4 /* Adivina.cpp */,
+				558EF427209C2BA300BF22F4 /* File */,
+				558EF426209C2A2000BF22F4 /* Adivina.hpp */,
 			);
 			path = AdivinarNumero;
 			sourceTree = "<group>";
